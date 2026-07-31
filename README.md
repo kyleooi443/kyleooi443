@@ -15,4 +15,4 @@ ___
 
 ## 📊 Github Stats
 
-![![GitHub stats](https://github-stats-extended.vercel.app/api?username=kyleooi443)](https://github.com/stats-organization/github-stats-extended)
+[![Kyle's GitHub stats](https://github-stats-extended.vercel.app/api?username=kyleooi443)](https://github.com/stats-organization/github-stats-extended)
