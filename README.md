@@ -1,4 +1,4 @@
-# Welcome to My Github Profile 👋
+# Hello, I'm Kyle! 👋
 
 <p><b>Quit, don't quit. Noodles, don't noodles.</p></b>
   
