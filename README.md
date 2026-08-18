@@ -6,7 +6,7 @@ ___
 
   
 ## 💬 About Me
-I’m Kyle, a Computer Science student at Batangas State University with a growing interest in AI and data science. I’m still learning, experimenting, and upskilling along the way. This GitHub is where I document that journey through practice code, small projects, experiments, and notes as I continue to learn and grow.
+I’m Kyle, a Computer Science student at Batangas State University with a growing interest in AI and data science. I’m still learning, experimenting, and upskilling along the way. This is where I will document my journey through practice code, small projects, experiments, and notes as I continue to learn and grow.
 
 ___
 
