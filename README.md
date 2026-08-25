@@ -1,6 +1,6 @@
 # Hello, I'm Kyle! 👋
 
-<p><b>Quit, don't quit. Noodles, don't noodles.</p></b>
+<p><b>Larping till I make it</p></b>
   
 ___
 
