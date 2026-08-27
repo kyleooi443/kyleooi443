@@ -8,7 +8,7 @@ ___
 ## 💬 About Me
 I’m Kyle, a First Year Computer Science student at Batangas State University with a growing interest in the Tech Industry. I’m still learning, experimenting, and upskilling along the way. This is where I will document my journey through practice code, small projects, experiments, and notes as I continue to learn and grow.
 
-Currently studying: C++, Python, and Web development
+Currently studying: C++, Python, MySQL, and Web development
 
 ___
 
