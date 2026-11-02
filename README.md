@@ -13,7 +13,7 @@
 </p>
 
 <details>
-<summary>GitHub Stats ⚡</summary>
+<summary>GitHub Stats </summary>
 <br/>
 <p align="center">
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=kyleooi443&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
