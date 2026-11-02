@@ -16,12 +16,23 @@
 </p>
 
 ```ts
-const kyle = {
-  role: "Computer Science Student @ Batangas State University",
-  focus: ["Web & App Development", "UI/UX & Creative Design"],
-  currentlyLearning: ["TypeScript", "React", "Supabase"],
+interface Developer {
+  name: string;
+  studying: string;
+  interests: string[];
+  learning: string[];
+  openTo: string[];
+}
+
+const kyle: Developer = {
+  name: "Kyle",
+  studying: "Computer Science @ Batangas State University",
+  interests: ["Web & App Development", "AI & Machine Learning", "UI/UX & Creative Design"],
+  learning: ["TypeScript", "React", "Supabase"],
   openTo: ["Hackathons", "Tech Competitions", "Collaboration"],
 };
+
+// still learning, always building
 ```
 
 ---
