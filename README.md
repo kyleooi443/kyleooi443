@@ -2,7 +2,7 @@
 
 # Hi, I'm Kyle 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Web+%26+App+Developer;Creative+Tools+Enthusiast" alt="Computer Science student, web and app developer, creative tools enthusiast" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1800&color=58A6FF&center=true&vCenter=true&width=820&height=45&lines=%E2%80%9CTalk+is+cheap.+Show+me+the+code.%E2%80%9D+%E2%80%94+Linus+Torvalds;%E2%80%9CMake+it+work%2C+make+it+right%2C+make+it+fast.%E2%80%9D+%E2%80%94+Kent+Beck;%E2%80%9CThe+best+way+to+predict+the+future+is+to+invent+it.%E2%80%9D+%E2%80%94+Alan+Kay;%E2%80%9CDesign+is+how+it+works.%E2%80%9D+%E2%80%94+Steve+Jobs" alt="Rotating quotes about code and design" /></a>
 
 </div>
 
