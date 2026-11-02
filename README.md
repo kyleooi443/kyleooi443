@@ -3,7 +3,9 @@
 # Kyle Andrew B. Masilang
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Student;Aspiring+ML+engineer;Learning+in+public;Exploring+AI%2C+web%2C+and+design;Building+small+things%2C+one+commit+at+a+time" alt="Student, aspiring ML engineer, learning in public" /></a>
+
 </div>
+
 ---
 
 <h2 align="center">💬 About Me</h2>
