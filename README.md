@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kyle 👋</h1>
+<h1 align="center">Kyle Masilang</h1>
 
 <p align="center">First-year Computer Science student at Batangas State University. Aspiring ML engineer, learning in public.</p>
 
