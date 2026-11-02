@@ -15,26 +15,6 @@
   I learn by building, and this profile documents my journey through practice code, small projects, experiments, and notes.
 </p>
 
-```ts
-interface Developer {
-  name: string;
-  studying: string;
-  interests: string[];
-  learning: string[];
-  openTo: string[];
-}
-
-const kyle: Developer = {
-  name: "Kyle",
-  studying: "Computer Science @ Batangas State University",
-  interests: ["Web & App Development", "AI & Machine Learning", "UI/UX & Creative Design"],
-  learning: ["TypeScript", "React", "Supabase"],
-  openTo: ["Hackathons", "Tech Competitions", "Collaboration"],
-};
-
-// still learning, always building
-```
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
