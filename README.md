@@ -67,14 +67,6 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kyleooi443&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-</p>
-
----
-
 <!--
 HIDDEN LinkedIn section. To show it: replace YOUR-HANDLE, then delete the
 comment markers on the first and last lines of this block.
